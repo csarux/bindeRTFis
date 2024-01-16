@@ -1,0 +1,2 @@
+scikit-rt==0.3.21
+jupyterlab-theme-solarized-dark==3.0.0
