@@ -1,0 +1,10 @@
+#! /bin/bash
+
+# Preparación de los datos para realziar el cuaderno de Radiobiología 
+
+# Descomprimir archivo de datos
+unzip ../data/MamaDer001.zip -d ../data
+
+# Eliminar el archivo comprimido
+rm -f ../data/MamaDer001.zip
+
