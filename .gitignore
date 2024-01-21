@@ -137,5 +137,5 @@ ui-tests/.yarn/*
 ui-tests/.pnp.*
 
 # data files
-data
+data/*
 
